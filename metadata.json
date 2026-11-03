@@ -1,0 +1,6 @@
+{
+  "name": "ManhwaVid",
+  "description": "Turn scripts into narrated photo-explainer manhwa videos with Gemini AI scene breakdown, character references, voiceover sync, and cinematic Ken Burns preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
